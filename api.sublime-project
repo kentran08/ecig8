@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "app/design/frontend/ecig8/default/layout"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "app/design/frontend/ecig8/default/template"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "skin/frontend/ecig8/default"
+		}
+	]
+}

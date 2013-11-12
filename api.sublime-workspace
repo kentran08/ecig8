@@ -1,0 +1,438 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fun",
+				"function"
+			],
+			[
+				"if",
+				"ife	if … else"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/design/frontend/ecig8/default/template/page/html/header.phtml",
+			"settings":
+			{
+				"buffer_size": 2215,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"sf",
+				"SFTP: Browse Server…"
+			],
+			[
+				"s",
+				"SFTP: Browse Server…"
+			],
+			[
+				"copy",
+				"File: Copy as Tag style"
+			],
+			[
+				"fe",
+				"Fetch: Package"
+			],
+			[
+				"fet",
+				"Fetch: Manage"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"co",
+				"File: Copy Path From Project"
+			],
+			[
+				"cop",
+				"File: Copy URL"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"sni",
+				"Snippet: HTML - HTML foundation"
+			],
+			[
+				"ht",
+				"Snippet: HTML - Navigation object (inline-block)"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sub",
+				"Preferences: SublimeLint Settings – User"
+			],
+			[
+				"sn",
+				"Snippet: html"
+			],
+			[
+				"f",
+				"Fetch: File"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"",
+				"Package Control: Add Repository"
+			],
+			[
+				"p",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"brow",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"fetch",
+				"Fetch: Manage"
+			],
+			[
+				"snip",
+				"Snippet: Get Elements"
+			],
+			[
+				"snipp",
+				"Snippet: html"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"togg",
+				"View: Toggle Side Bar"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kentran/Documents/all_sites/ecig8/skin/frontend/ecig8/default/less/content.less",
+		"/Users/kentran/Documents/all_sites/ecig8/skin/frontend/ecig8/default/less/breadcrumbs.less",
+		"/Users/kentran/Documents/all_sites/ecig8/skin/frontend/ecig8/default/less/categories.less",
+		"/Users/kentran/Documents/themes/magento Themes/magento-boilerplate-master/skin/frontend/mytheme/default/less/style.less",
+		"/Users/kentran/Documents/themes/magento Themes/magento-boilerplate-master/skin/frontend/boilerplate/default/less/style.less",
+		"/Users/kentran/Documents/themes/magento Themes/magento-boilerplate-master/test",
+		"/Users/kentran/Documents/all_sites/ecig8v1/app/design/frontend/venedor/default/template/eternal/custommenu/top.phtml",
+		"/Users/kentran/Documents/themes/Aoe_TemplateHints-master/README.md",
+		"/Users/kentran/Downloads/top_links.phtml",
+		"/Users/kentran/Downloads/linksblock.phtml",
+		"/Users/kentran/Documents/themes/magento Themes/Venedor 1.0.4/Theme Files/Venedor_Theme/Theme/app/design/frontend/venedor/default/template/page/template/top_links.phtml",
+		"/Users/kentran/Documents/themes/magento Themes/Venedor 1.0.4/Theme Files/Venedor_Theme/Theme/app/design/frontend/venedor/default/template/page/template/linksblock.phtml",
+		"/Users/kentran/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/D342F464-3F1C-4C30-8339-80E83AC9FDDC/linksblock.phtml",
+		"/Users/kentran/Downloads/Venedor 1.0.4/Theme Files/Venedor_Theme/Theme - 1.8.x Patch/sftp-config.json",
+		"/Users/kentran/Downloads/Venedor 1.0.4/Theme Files/Venedor_Theme/Theme/sftp-config.json",
+		"/Users/kentran/Documents/all_sites/magento/app/design/frontend/ecig8/default/template/page/html/levelup.sublime-project",
+		"/Users/kentran/Documents/all_sites/magento/my-theme.sublime-project",
+		"/Users/kentran/Documents/all_sites/magento/app/design/frontend/ecig8/default/template/page/html/header.phtml",
+		"/Users/kentran/Documents/all_sites/sample/test.php",
+		"/Users/kentran/all_sites/getboot",
+		"/Users/kentran/Library/Application Support/Sublime Text 3/Packages/User/Fetch.sublime-settings",
+		"/Users/kentran/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/kentran/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/Users/kentran/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/kentran/Library/Application Support/Sublime Text 3/Packages/User/SublimeLint.sublime-settings",
+		"/Users/kentran/Library/Application Support/Sublime Text 3/Packages/sublimelint/SublimeLint.sublime-settings",
+		"/Users/kentran/Documents/all_sites/newproject/test.sublime-project",
+		"/Users/kentran/Documents/all_sites/sample/styles.css",
+		"/Users/kentran/Documents/all_sites/newproject/index.php",
+		"/Users/kentran/Documents/all_sites/sample/sample/newfile.php",
+		"/Users/kentran/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/kentran/sample/test.html",
+		"/Users/kentran/Documents/all_sites/sample/Documents/all_sites/sample/teest.html",
+		"/Users/kentran/Documents/all_sites/myfolder/test.html",
+		"/Users/kentran/all_site/bootstrap",
+		"/Users/kentran/Library/Application Support/Sublime Text 3/Packages/AdvancedNewFile/Default (OSX).sublime-keymap",
+		"/Users/kentran/all_sites/testsite/blog",
+		"/Users/kentran/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/kentran/Documents/all_sites/sample/sample.sublime-project",
+		"/Users/kentran/Documents/all_sites/sample/myfolder/myfile.css",
+		"/Users/kentran/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Default (OSX).sublime-keymap",
+		"/Users/kentran/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/kentran/Library/Application Support/Sublime Text 3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/Users/kentran/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/CHANGELOG",
+		"/Users/kentran/Documents/all_sites/sample/sample/mbs/index.html",
+		"/Users/kentran/Documents/all_sites/sample/mbs/styles.css",
+		"/Users/kentran/Documents/all_sites/sample/jquery.js",
+		"/Users/kentran/Library/Application Support/Sublime Text 3/Packages/User/jquery.js",
+		"/Users/kentran/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/kentran/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/kentran/Documents/themes/magento Themes/magento-boilerplate-master/skin/frontend/boilerplate/default/css/style.css",
+		"/Users/kentran/Documents/themes/magento Themes/magento-boilerplate-master/skin/frontend/mytheme/default/js/test.js",
+		"/Users/kentran/Documents/themes/magento Themes/magento-boilerplate-master/app/design/frontend/boilerplate/default/template/catalog/product/list/toolbar.phtml",
+		"/Users/kentran/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/kentran/Documents/themes/magento Themes/magento-boilerplate-master/skin/frontend/mytheme/default/css/style.css",
+		"/Users/kentran/Documents/all_sites/magento/skin/frontend/ecig8/default/css/styles.css",
+		"/Users/kentran/Documents/all_sites/magento/cron.sh",
+		"/Users/kentran/Documents/all_sites/test.php",
+		"/Applications/MAMP/htdocs/test.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"This is some test this is control\n",
+			"this is some test this is control\n",
+			"t",
+			"this",
+			"t",
+			"this",
+			"some",
+			"this",
+			"this is some test this is control\n",
+			"this is some test",
+			"test",
+			"this is some test",
+			"input",
+			"label",
+			"legend",
+			"fieldset",
+			"button",
+			"summary",
+			"show-details"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/design/frontend/ecig8/default/template/page/html/header.phtml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2215,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1050,
+								1050
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 449.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 124.0
+	},
+	"project": "api.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"in",
+				"skin/frontend/mytheme/default/js/index.html"
+			],
+			[
+				"t",
+				"skin/frontend/mytheme/default/js/test.js"
+			],
+			[
+				"s",
+				"skin/frontend/boilerplate/default/css/style.css"
+			],
+			[
+				"style",
+				"skin/frontend/boilerplate/default/css/style.css"
+			],
+			[
+				"",
+				"skin/frontend/mytheme/default/js/test.js"
+			],
+			[
+				"style.css",
+				"skin/frontend/boilerplate/default/css/style.css"
+			],
+			[
+				".css",
+				"skin/frontend/boilerplate/default/css/style.css"
+			],
+			[
+				"sty",
+				"skin/frontend/boilerplate/default/css/style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 279.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
