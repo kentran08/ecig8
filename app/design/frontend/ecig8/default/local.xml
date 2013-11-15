@@ -9,44 +9,14 @@
  
         <!--CSS and JS Files-->
         <reference name="head">
-            <!-- Remove Magento's default assets -->
-			<action method="removeItem">
-				<type>skin_css</type>
-				<name>css/print.css</name>
-			</action>
-			<action method="removeItem">
-				<type>skin_css</type>
-				<name>css/styles-ie.css</name>
-			</action>
-			<action method="removeItem">
-				<type>skin_css</type>
-				<name>css/styles.css</name>
-			</action>
-			<action method="removeItem">
-				<type>skin_css</type>
-				<name>css/widgets.css</name>
-			</action>
-			<action method="removeItem">
-				<type>skin_js</type>
-				<name>js/ie6.js</name>
-			</action>
-			<action method="removeItem">
-				<type>js</type>
-				<name>lib/ds-sleight.js</name>
-			</action>
-			<action method="removeItem">
-				<type>js</type>
-				<name>varien/menu.js</name>
-			</action>
-
-			<!-- Add our assets -->
-			<action method="addCss">
-				<stylesheet>css/style.css</stylesheet>
-			</action>
-			<action method="addItem">
-				<type>skin_js</type>
-				<name>js/script-ck.js</name>
-			</action>
+            <!--Add CSS and JS, skin Folder-->
+            <action method="addItem"><type>skin_css</type><name>css/styles.css</name></action>
+            <action method="addItem"><type>skin_js</type><name>js/functions.js</name></action>
+            <!--Remove CSS and JS, skin Folder-->
+            <action method="removeItem"><type>skin_js</type><name>scripts/functions.js</name></action>
+            <action method="removeItem"><type>skin_css</type><name>css/styles.css</name></action>
+            <!--Remove JS, js Folder-->
+            <action method="removeItem"><type>js</type><name>scripts/functions.js</name></action>
         </reference>
  
         <!--Header-->
@@ -82,23 +52,6 @@
         <remove name="sale.reorder.sidebar"/>           <!--Reorder Sidebar When User Logged, in Dashboard-->
         <remove name="customer_account_navigation"/>    <!--Customer Navigation-->
     </default>
-
-    <print>
-
-		<reference name="head">
-
-			<!-- Add our assets -->
-			<action method="addCss">
-				<stylesheet>css/style.css</stylesheet>
-			</action>
-			<action method="addItem">
-				<type>skin_js</type>
-				<name>js/script-ck.js</name>
-			</action>
-
-		</reference>
-
-	</print>
  
     <!--Home Page-->
     <cms_index_index>

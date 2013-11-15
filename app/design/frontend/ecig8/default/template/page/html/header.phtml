@@ -27,7 +27,29 @@
  * @var Mage_Page_Block_Html_Header $this
  */
 ?>
-<div class="container">hello
+<div class="container">
+    <div class="quick-access">
+        <a href="#">
+            <span class="glyphicon glyphicon-user"></span> Account
+        </a>
+        <a href="#">
+            <span class="glyphicon glyphicon-heart"></span> Wishlist 
+        </a>
+        <a href="#">
+            <span class="glyphicon glyphicon-shopping-cart"></span> Cart
+        </a>
+        <a href="#">
+            <span class="glyphicon glyphicon-check"></span> Check Out
+        </a>
+    </div><!-- end quick-access -->        
+    <header role="banner">
+        <a href="<?php echo $this->getUrl('') ?>" title="<?php echo $this->getLogoAlt() ?>" class="logo">
+            <img src="<?php echo $this->getLogoSrc() ?>" alt="<?php echo $this->getLogoAlt() ?>">
+        </a>                
+    </header>
+</div><!-- end container -->
+
+<div class="container">
     <header role="banner">
         <?php if ($this->getIsHomePage()):?>
         <h1 class="logo"><strong><?php echo $this->getLogoAlt() ?></strong><a href="<?php echo $this->getUrl('') ?>" title="<?php echo $this->getLogoAlt() ?>" class="logo"><img src="<?php echo $this->getLogoSrc() ?>" alt="<?php echo $this->getLogoAlt() ?>" /></a></h1>
